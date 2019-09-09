@@ -82,3 +82,5 @@ gem "devise"
 gem 'geocoder', '~> 1.3', '>= 1.3.7'
 
 gem "figaro"
+
+gem "table_print"
