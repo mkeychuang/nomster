@@ -84,3 +84,7 @@ gem 'geocoder', '~> 1.3', '>= 1.3.7'
 gem "figaro"
 
 gem "table_print"
+
+gem 'carrierwave', '~> 1.0'
+
+gem 'fog-aws', '~> 0.7.6'
